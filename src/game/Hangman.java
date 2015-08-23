@@ -3,7 +3,15 @@ package game;
 import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
+/**
+ * Hangman game
 
+ * User is trying to find the hidden word by guessing it's letters 
+ * If he make 6 wrong guesses, he is hanged and he lost
+ * If he manages to guess all letters of the word, he won
+ * @author Nikola Lisicic
+ *
+ */
 public class Hangman {
 	
 	//all hidden words from topic Bands

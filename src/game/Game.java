@@ -3,6 +3,11 @@ package game;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+/**
+ * user menu for hangman game
+ * @author Nikola Lisicic
+ *
+ */
 public class Game {
 	
 	/**
